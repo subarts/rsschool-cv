@@ -20,7 +20,7 @@ and I want to change profession .
 
 ## Languages
 
-- _Russiun_ - native
+- _Russian_ - native
 - _English_ - A1
 
 ## Code Example
