@@ -1,1 +1,1 @@
-https://subarts.github.io/rsschool-cv/cv
+https://subarts.github.io/rsschool-cv/
