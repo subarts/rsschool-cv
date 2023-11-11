@@ -1,1 +1,1 @@
-# rsschool-cv
+https://subarts.github.io/rsschool-cv/cv
